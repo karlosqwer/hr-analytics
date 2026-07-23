@@ -1,0 +1,46 @@
+﻿id_cargo,nome_cargo,nivel,salario_base,id_departamento
+1,Estagiário de Tecnologia,Estagiário,1800.0,1
+2,Desenvolvedor Back-end,Júnior,5200.0,1
+3,Desenvolvedor Back-end,Pleno,7800.0,1
+4,Desenvolvedor Back-end,Sênior,11000.0,1
+5,Analista de Dados,Júnior,4800.0,1
+6,Analista de Dados,Pleno,7200.0,1
+7,Cientista de Dados,Pleno,8500.0,1
+8,Coordenador de Tecnologia,Coordenação,13500.0,1
+9,Gerente de Tecnologia,Gerência,18500.0,1
+10,Estagiário de RH,Estagiário,1600.0,2
+11,Assistente de RH,Júnior,3200.0,2
+12,Analista de RH,Pleno,5500.0,2
+13,Analista de RH,Sênior,7800.0,2
+14,Coordenador de RH,Coordenação,10500.0,2
+15,Gerente de RH,Gerência,15000.0,2
+16,Assistente Financeiro,Júnior,3400.0,3
+17,Analista Financeiro,Júnior,4700.0,3
+18,Analista Financeiro,Pleno,6500.0,3
+19,Analista Financeiro,Sênior,8700.0,3
+20,Coordenador Financeiro,Coordenação,11500.0,3
+21,Gerente Financeiro,Gerência,16500.0,3
+22,Representante Comercial,Júnior,3800.0,4
+23,Executivo de Vendas,Júnior,4800.0,4
+24,Executivo de Vendas,Pleno,6800.0,4
+25,Executivo de Vendas,Sênior,9200.0,4
+26,Coordenador Comercial,Coordenação,12000.0,4
+27,Gerente Comercial,Gerência,17500.0,4
+28,Assistente de Marketing,Júnior,3200.0,5
+29,Analista de Marketing,Júnior,4600.0,5
+30,Analista de Marketing,Pleno,6000.0,5
+31,Analista de Marketing,Sênior,8200.0,5
+32,Coordenador de Marketing,Coordenação,11000.0,5
+33,Gerente de Marketing,Gerência,16000.0,5
+34,Assistente de Operações,Júnior,3000.0,6
+35,Analista de Operações,Pleno,5600.0,6
+36,Supervisor de Operações,Coordenação,9800.0,6
+37,Gerente de Operações,Gerência,15500.0,6
+38,Atendente,Júnior,2600.0,7
+39,Analista de Atendimento,Pleno,4800.0,7
+40,Supervisor de Atendimento,Coordenação,8200.0,7
+41,Assistente Jurídico,Júnior,3600.0,8
+42,Analista Jurídico,Pleno,6500.0,8
+43,Advogado Corporativo,Sênior,10500.0,8
+44,Coordenador Jurídico,Coordenação,13500.0,8
+45,Gerente Jurídico,Gerência,18000.0,8

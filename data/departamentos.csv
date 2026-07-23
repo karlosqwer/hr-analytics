@@ -1,0 +1,9 @@
+﻿id_departamento,nome_departamento,localizacao,orcamento_mensal,data_criacao
+1,Tecnologia,São Paulo,850000.0,2015-01-10
+2,Recursos Humanos,São Paulo,280000.0,2015-02-15
+3,Financeiro,São Paulo,420000.0,2015-03-20
+4,Comercial,Rio de Janeiro,700000.0,2015-04-05
+5,Marketing,Rio de Janeiro,350000.0,2016-01-12
+6,Operações,Belo Horizonte,650000.0,2016-03-18
+7,Atendimento,Recife,390000.0,2017-05-22
+8,Jurídico,Brasília,300000.0,2017-08-30
