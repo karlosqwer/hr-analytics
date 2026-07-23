@@ -109,7 +109,7 @@ hr-analytics/
 ### 1. Prepare o ambiente
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/karlosqwer/hr-analytics.git
 cd hr-analytics
 python -m venv .venv
 ```
